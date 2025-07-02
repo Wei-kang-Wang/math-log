@@ -1,3 +1,3 @@
-# Wkwang' tech Log
+# Wkwang' math Log
 
-Including engineering and technic things
+Including mathematical knowledge and book-reading
